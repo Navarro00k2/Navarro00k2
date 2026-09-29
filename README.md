@@ -1,4 +1,4 @@
-👋 Soy <B>Pablo Navarro</B> "@Navarro00k2", estudiante de <B>1º de DAM</B>.<br>
+👋 Soy <B>Pablo Navarro</B> "@Navarro00k2", estudiante de <B>2º de DAM</B>.<br>
 Estos son algunos de mis proyectos de aprendizaje durante el curso.
 
 <!---
